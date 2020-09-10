@@ -26,7 +26,6 @@ final class WordPressNonce implements WordPressNonceInterface
     public function __construct( $action = -1 )
     {
         $this->action = $action;
-        // $this->nonce_string = '';
     }
     
     /**
