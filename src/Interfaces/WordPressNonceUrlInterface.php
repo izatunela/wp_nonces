@@ -3,7 +3,7 @@
 namespace Marko\WordPressNonces\Interfaces;
 
 /**
-* WordPressNonce interface
+* WordPressNonceUrl interface
 */
 interface WordPressNonceUrlInterface
 {
